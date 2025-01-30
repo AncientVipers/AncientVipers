@@ -1,7 +1,7 @@
 <h2 align="left">Hi there.<img src="https://github.com/AncientVipers/AncientVipers/blob/main/assets/Hi.gif" width="29px"> <br> My name is Armando. and I'm a 23 from The Netherlands.</h2>
 
 ###
-<img src="https://github.com/AncientVipers/AncientVipers/blob/main/assets/github-contribution-grid-snake-dark.svg">
+
 
 
 
@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AncientVipers/AncientVipers/blob/main/assets/github-contribution-grid-snake-dark.svg">
 
 ###
