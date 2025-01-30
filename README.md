@@ -1,4 +1,4 @@
-<h2 align="left">Hi there.<img src="https://github.com/AncientVipers/AncientVipers/blob/main/assets/Hi.gif" width="29px"> <br> My name is Armando. and I'm a 23 from The Netherlands.</h2>
+<h2 align="left">Hi there.<img src="https://github.com/AncientVipers/AncientVipers/blob/main/assets/Hi.gif" width="29px"> <br> My name is Armando. and I'm a 23 years & from The Netherlands.</h2>
 
 ###
 
