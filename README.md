@@ -52,6 +52,6 @@
 
 <div align="left">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/166153446599294976)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:166153446599294976)](https://discord.com/users/166153446599294976)
 
 </div>
