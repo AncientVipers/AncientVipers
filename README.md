@@ -49,3 +49,9 @@
 <img src="https://github.com/AncientVipers/AncientVipers/blob/main/assets/github-contribution-grid-snake-dark.svg">
 
 ###
+
+<div align="left">
+
+<iframe src="https://discord.com/widget?id=1332598862225080362&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+</div>
