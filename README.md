@@ -10,17 +10,14 @@
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ancientvipers&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ancientvipers&layout=compact&langs_count=6&theme=dracula&hide_border=true" 
-    height="160"
-  />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ancientvipers&show_icons=true&theme=dracula&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ancientvipers&layout=compact&theme=dracula&hide_border=true)
+
 </div>
 
 ---
